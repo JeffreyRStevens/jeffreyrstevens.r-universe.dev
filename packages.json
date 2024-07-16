@@ -1,0 +1,10 @@
+[
+    {
+        "package": "cocoon",
+        "url": "https://github.com/JeffreyRStevens/cocoon"
+    },
+    {
+        "package": "detritus",
+        "url": "https://github.com/JeffreyRStevens/detritus"
+    },
+]
